@@ -1,5 +1,10 @@
 # Assignment
 
+## Instruction
+- npm i to install necessary dependencies
+- npm start to start running your server
+- goto "http://localhost:3000/" to check awesome quote.
+
 ## Objectives
 
 By the end of this project you will:
