@@ -1,8 +1,8 @@
 # Assignment
 
 ## Instruction
-- npm i to install necessary dependencies
-- npm start to start running your server
+- **npm i** to install necessary dependencies
+- **npm start** to start running your server
 - goto "http://localhost:3000/" to check awesome quote.
 
 ## Objectives
